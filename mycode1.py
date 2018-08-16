@@ -5,7 +5,9 @@
 
 name = "superman"
 
-NewAge = 100
+A python workshop
+
+version control
 
 
 # In[ ]:
