@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+name = "superman"
 
 NewAge = 100
 
